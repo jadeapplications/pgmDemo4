@@ -6,9 +6,9 @@ Provide the User with the ability to create a simple program on the Jade Robot's
 ### Project Information
 ```
 Type              : C
-Version           : 04.0
+Version           : 01.0
 Author            : myke predko
-Firmware          : 40
+Firmware          : 42
 ```
 
 
